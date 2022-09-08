@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-st",
+  "version": "1.0.0",
+  "description": "Checks if the string is wds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinetemba/npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Sinetemba Nkosana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinetemba/npm-package/issues"
+  },
+  "homepage": "https://github.com/sinetemba/npm-package#readme"
+}
